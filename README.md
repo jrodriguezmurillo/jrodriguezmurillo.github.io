@@ -4,11 +4,13 @@ Esta viasualización corresponde a un entregable de la segunda práctica de la a
 
 Realizado por *José Ángel Rodríguez Murillo* y entregado el 30/12/2022.
 
-## Elecciones Generales Noviembre 2019
+## Elecciones Generales 2019
 
-Como convocatoria electoral más relevante se plantean las últimas elecciones generales de Noviembre de 2019 al congreso de los diputados.
+Como convocatoria electoral más relevante se presentan las composiciones del congreso de los diputados tras las dos convocatorias electorales de 2019.
 
-Para contextualizar las elecciones se presenta la distribución de escaños por provincia:
+<div class="flourish-embed flourish-parliament" data-src="visualisation/12292558"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Para contextualizar las elecciones se presenta la distribución de escaños por comunidad autónoma y provincia:
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12292210"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-chart" data-src="visualisation/12292373"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
