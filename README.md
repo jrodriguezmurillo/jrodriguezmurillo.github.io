@@ -10,4 +10,4 @@ Como convocatoria electoral más relevante se plantean las últimas elecciones g
 
 Para contextualizar las elecciones se presenta la distribución de escaños por provincia:
 
-
+<div class="flourish-embed flourish-chart" data-src="visualisation/12292210"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
