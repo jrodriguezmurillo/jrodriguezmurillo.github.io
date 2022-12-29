@@ -19,3 +19,4 @@ Para contextualizar las elecciones se presentan el número de escaños totales p
 <div class="flourish-embed flourish-chart" data-src="visualisation/12292210"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-chart" data-src="visualisation/12292373"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<div class="flourish-embed flourish-map" data-src="visualisation/12293525"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
