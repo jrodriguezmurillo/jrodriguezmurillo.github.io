@@ -12,6 +12,7 @@ Como convocatoria electoral más relevante se presentan las composiciones del co
 
 <div class="flourish-embed flourish-parliament" data-src="visualisation/12292558"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-chart" data-src="visualisation/12299678"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/12300092"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Resultados por comunidad
 Para contextualizar las elecciones se presentan el número de escaños totales por por comunidad autónoma y provincia:
