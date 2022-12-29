@@ -9,10 +9,9 @@ Realizado por *José Ángel Rodríguez Murillo* y entregado el 30/12/2022.
 Como convocatoria electoral más relevante se presentan las composiciones del congreso de los diputados tras las dos convocatorias electorales de 2019.
 
 <div class="flourish-embed flourish-parliament" data-src="visualisation/12292558"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-Para contextualizar las elecciones se presentan los ganadores y el número de escaños por comunidad autónoma:
-
 <div class="flourish-embed flourish-map" data-src="visualisation/12293525"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Para contextualizar las elecciones se presentan el número de escaños totales por por comunidad autónoma y provincia:
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12292210"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-chart" data-src="visualisation/12292373"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
