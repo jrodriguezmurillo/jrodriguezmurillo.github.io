@@ -4,7 +4,7 @@ Esta viasualización corresponde a un entregable de la segunda práctica de la a
 
 Realizado por *José Ángel Rodríguez Murillo* y entregado el 30/12/2022.
 
-## Elecciones Generales 2019
+## Elecciones Año 2019
 
 Como convocatoria electoral más relevante se presentan las composiciones del congreso de los diputados tras las dos convocatorias electorales de 2019.
 
