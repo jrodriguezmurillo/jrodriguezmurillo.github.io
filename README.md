@@ -27,8 +27,6 @@ Para contextualizar las elecciones se presentan el número de escaños totales p
 <div class="flourish-embed flourish-chart" data-src="visualisation/12299790"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-slope" data-src="visualisation/12307932"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### Posibles combinaciones para formar gobierno
-
 <div class="flourish-embed flourish-chart" data-src="visualisation/12307805"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
