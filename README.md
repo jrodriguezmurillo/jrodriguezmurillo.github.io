@@ -14,6 +14,10 @@ Como convocatoria electoral más relevante se presentan las composiciones del co
 <div class="flourish-embed flourish-chart" data-src="visualisation/12299678"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-chart" data-src="visualisation/12300092"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+#### Posibles combinaciones para formar gobierno
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/12307805"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 #### Relación de votos y escaños
 
 <div class="flourish-embed flourish-slope" data-src="visualisation/12307283"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
