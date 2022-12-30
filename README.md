@@ -1,4 +1,4 @@
-# Data Storytelling. Historial electoral.
+# Elecciones 2019. Lo que cuentan los datos.
 
 Esta visualización corresponde a un entregable de la segunda práctica de la asignatura Visualización de Datos del Máster en Ciencia de Datos de la UOC. Consiste en una Visualización Storytelling analizando los resultados de los procesos electorales del año 2019 años en España.
 
